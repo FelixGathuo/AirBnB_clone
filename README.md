@@ -1,1 +1,1 @@
-READMe for a simple webpage
+README for airbnb clone
